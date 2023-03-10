@@ -36,3 +36,7 @@ iframe{
     border: 0;
     outline: 0;
 }
+label i{
+    margin-right: 10px;
+    margin-left: 10px;
+}
